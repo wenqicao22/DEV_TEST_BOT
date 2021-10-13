@@ -1,8 +1,8 @@
-package edu.northeastern.cs5500.starterbot;
+package edu.northeastern.cs5500.covidvaccinebot;
 
 import static spark.Spark.*;
 
-import edu.northeastern.cs5500.starterbot.listeners.MessageListener;
+import edu.northeastern.cs5500.covidvaccinebot.listeners.MessageListener;
 import java.util.EnumSet;
 import javax.security.auth.login.LoginException;
 import net.dv8tion.jda.api.JDA;

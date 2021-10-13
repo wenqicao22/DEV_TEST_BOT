@@ -1,4 +1,4 @@
-package edu.northeastern.cs5500.starterbot.listeners;
+package edu.northeastern.cs5500.covidvaccinebot.listeners;
 
 import net.dv8tion.jda.api.events.interaction.SlashCommandEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;

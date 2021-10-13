@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c0bd96-bfec-4953-a8e2-b708926068b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly.toml" beforeDir="false" afterPath="$PROJECT_DIR$/fly.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/starterbot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/starterbot/listeners/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/listeners/MessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/listeners/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northeastern/cs5500/covidvaccinebot/listeners/MessageListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,17 @@
       <option name="presentableId" value="Default" />
       <updated>1634085850437</updated>
       <workItem from="1634085855671" duration="51000" />
+      <workItem from="1634086846109" duration="195000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1634087020672">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="570" y="343" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1634087020672" />
   </component>
 </project>
